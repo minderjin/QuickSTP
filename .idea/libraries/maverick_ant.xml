@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maverick-ant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/maverick-ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
